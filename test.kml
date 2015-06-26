@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Capa sin nombre</name>
+			<Placemark>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<name>CO</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2048672,-22.9102197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<name>Punto 2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2050014,-22.9102593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<name>Cliente2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2047814,-22.910353200000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

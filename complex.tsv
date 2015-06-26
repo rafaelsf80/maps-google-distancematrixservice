@@ -1,0 +1,23 @@
+type	latitude	longitude	sym	color	scale	name
+W	-22.910125800	-43.204776000	http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png	#3F5BA9	1.1	CO
+W	-22.906755900	-43.213927800	http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png	#4186F0	1.1	FAP1
+W	-22.904759600	-43.218326600	http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png	#4186F0	1.1	FAP2
+W	-22.910432200	-43.205065700	http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png	#4186F0	1.1	FAP3
+W	-22.899936600	-43.223133100	http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png	#4186F0	1.1	FAP5
+W	-22.903731700	-43.215365400	http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png	#4186F0	1.1	FAP4
+W	-22.908870800	-43.220987300	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.908218500	-43.220021700	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.901261000	-43.222467900	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.901735400	-43.222317700	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.901972500	-43.224248900	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.892682100	-43.221609600	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.893077500	-43.222060200	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.893354200	-43.222425000	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.893611200	-43.222725400	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.894125100	-43.223240400	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.893887900	-43.222982900	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.891674000	-43.220429400	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.891397200	-43.220708400	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.891021600	-43.221094600	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+W	-22.890705300	-43.221330600	http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png	#009D57	1.1	ClienteP
+
